@@ -1,0 +1,5 @@
+sshpass
+git
+python3
+tmux
+

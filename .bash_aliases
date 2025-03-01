@@ -1,0 +1,7 @@
+alias ipy='ipython3'
+alias py='python3'
+alias cls='clear'
+alias ni='touch'
+alias ls='ls -lahX'
+alias ren='mv'
+alias g='git'
